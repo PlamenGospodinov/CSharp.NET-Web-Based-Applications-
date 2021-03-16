@@ -1,0 +1,10 @@
+C:\Users\Plamen\Documents\c# .NET Web-Based-Apps\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Plamen\Documents\c# .NET Web-Based-Apps\Calculator\bin\Debug\Calculator.exe
+C:\Users\Plamen\Documents\c# .NET Web-Based-Apps\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Plamen\Documents\c# .NET Web-Based-Apps\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Plamen\Documents\c# .NET Web-Based-Apps\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\Plamen\Documents\c# .NET Web-Based-Apps\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Plamen\Documents\c# .NET Web-Based-Apps\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Plamen\Documents\c# .NET Web-Based-Apps\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Documents\c# .NET Web-Based-Apps\Calculator\obj\Debug\Calculator.exe
+C:\Users\Plamen\Documents\c# .NET Web-Based-Apps\Calculator\obj\Debug\Calculator.pdb
