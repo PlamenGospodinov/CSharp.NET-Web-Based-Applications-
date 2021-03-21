@@ -1,0 +1,10 @@
+C:\Users\Plamen\Documents\c# .NET Web-Based-Apps\MoreControls\bin\Debug\MoreControls.exe.config
+C:\Users\Plamen\Documents\c# .NET Web-Based-Apps\MoreControls\bin\Debug\MoreControls.exe
+C:\Users\Plamen\Documents\c# .NET Web-Based-Apps\MoreControls\bin\Debug\MoreControls.pdb
+C:\Users\Plamen\Documents\c# .NET Web-Based-Apps\MoreControls\obj\Debug\MoreControls.csprojAssemblyReference.cache
+C:\Users\Plamen\Documents\c# .NET Web-Based-Apps\MoreControls\obj\Debug\MoreControls.Form1.resources
+C:\Users\Plamen\Documents\c# .NET Web-Based-Apps\MoreControls\obj\Debug\MoreControls.Properties.Resources.resources
+C:\Users\Plamen\Documents\c# .NET Web-Based-Apps\MoreControls\obj\Debug\MoreControls.csproj.GenerateResource.cache
+C:\Users\Plamen\Documents\c# .NET Web-Based-Apps\MoreControls\obj\Debug\MoreControls.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Documents\c# .NET Web-Based-Apps\MoreControls\obj\Debug\MoreControls.exe
+C:\Users\Plamen\Documents\c# .NET Web-Based-Apps\MoreControls\obj\Debug\MoreControls.pdb
